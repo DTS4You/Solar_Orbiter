@@ -1,2 +1,2 @@
-# Solar_Orbiter
+# Solar Orbiter
 Satellitenprojekt mit RaspberryPi, Arduino und WS2812
